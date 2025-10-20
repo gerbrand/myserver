@@ -1,0 +1,2 @@
+# myserver
+My server configuration
