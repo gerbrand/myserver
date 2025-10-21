@@ -98,4 +98,4 @@ Now I save the file (in vi using `:wq`, in case your stuck), and restart nginx:
 service nginx reload
 ```
 
-and it works! on https://etherpad.g.software-creation.nl etherpad is running and I can do create documents. Next step authentication. I could set up keycloak, or decide to use google. For next time!
+and it works! on https://etherpad.g.software-creation.nl etherpad is running and I can do create documents. Next step authentication. I could set up keycloak, or decide to use google. For now, you'll just get a Forbidden. For next time!
